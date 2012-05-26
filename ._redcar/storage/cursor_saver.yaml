@@ -1,12 +1,18 @@
 --- 
 cursor_positions: 
-  - :path: config/routes.rb
-    :cursor_offset: 1158
-    :timestamp: 2012-05-22 19:15:09.353000 -04:00
-  - :path: app/controllers/welcome_controller.rb
-    :cursor_offset: 0
-    :timestamp: 2012-05-22 18:48:13.328000 -04:00
   - :path: app/views/welcome/index.html.erb
     :cursor_offset: 47
     :timestamp: 2012-05-22 19:13:17.748000 -04:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-05-22 18:48:13.328000 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 1158
+    :timestamp: 2012-05-22 19:15:09.353000 -04:00
+  - :path: Gemfile
+    :cursor_offset: 191
+    :timestamp: 2012-05-26 14:55:31.406000 -04:00
+  - :path: Gemfile.lock
+    :cursor_offset: 169
+    :timestamp: 2012-05-21 19:09:42.898000 -04:00
 files_to_retain: 0
